@@ -1,1 +1,2 @@
 # Smart-Surveillance-for-Violence-Detection-
+The rapid advancement of computer vision technologies has enabled automated solutions for critical tasks such as Violence detection in surveillance systems. This project focuses on implementing a Violence detection system using the YOLOv8 (You Only Look Once, Version 8) model trained on the Roboflow Violence detection object dataset. The system aims to detect and classify Violences in real-time video feeds or images with high accuracy and efficiency.
